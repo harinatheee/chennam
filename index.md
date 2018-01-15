@@ -40,7 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Achievements
 
 
-### Projects gudied/guiding
+### Projects guided/guiding
 
 
 
