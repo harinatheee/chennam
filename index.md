@@ -4,21 +4,21 @@ Hi, Welcome to my home page.
 
 ## Educational qualifications
 
-|Degree/Specialization| College/University| Year of Passing| Aggregate %|
-|Ph.D |Rayalaseema University|pursuing|
-|MTech ( PE&ID)| JNTU Kukatpally,Hyderabad| 2008| 79.9|
-|BTech| GPREC, Kurnool/ SKU, Anathapur| 2001| 73.4|
-|10+2| Nalanda Junior college, Vijayawada| 1997| 89.9|
-|SSC |Kurnool Public School(T), Kurnool |1995| 87.4|
+| Degree/Specialization | College/University | Year of Passing | Aggregate % |
+| Ph.D | Rayalaseema University  | pursuing |
+| MTech ( PE&ID) | JNTU Kukatpally,Hyderabad | 2008 | 79.9 |
+| BTech | GPREC, Kurnool/ SKU, Anathapur | 2001 | 73.4 |
+| 10+2 | Nalanda Junior college, Vijayawada | 1997 | 89.9 |
+| SSC | Kurnool Public School(T), Kurnool | 1995 | 87.4 |
 
 ### Work experience
 
-|S.No| Institution/place| Duration| Years of working| Designation|
-|1| G.Pulla Reddy Engg college, Kurnool| 07-07- 2001 to 30-06- 2004| 3 |Lecturer|
-|2| GuruNAnaqk Engineering college, Hyd |01-07- 2004 to 04-06- 2006 |2| Asst Prof|
-|3| Vignan Institute of Tech &amp; Science,Hyd |05-06- 2006 to 31-10-2008| 2| Asst Prof|
-|4| Vignan Institute of Tech &amp; Science,Hyd |01-11- 2008 to 31-07-2010| 1.5| Associate Prof|
-|5| Vignan Institute of Tech &amp; Science,Hyd |01-07- 2010 to 15-06-2013| 3| Incharge Head of EEE Dept|
+| S.No | Institution/place | Duration | Years of working | Designation |
+| 1 | G.Pulla Reddy Engg college, Kurnool | 07-07- 2001 to 30-06- 2004 | 3 | Lecturer |
+|2| GuruNAnaqk Engineering college, Hyd | 01-07- 2004 to 04-06- 2006 | 2 | Asst Prof |
+|3| Vignan Institute of Tech &amp; Science,Hyd | 05-06- 2006 to 31-10-2008 | 2 | Asst Prof |
+|4| Vignan Institute of Tech &amp; Science,Hyd | 01-11- 2008 to 31-07-2010 | 1.5 | Associate Prof |
+|5| Vignan Institute of Tech &amp; Science,Hyd | 01-07- 2010 to 15-06-2013 | 3 | Incharge Head of EEE Dept |
 
 
 ### Publications
